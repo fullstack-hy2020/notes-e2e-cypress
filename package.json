@@ -1,7 +1,6 @@
 {
-  "name": "cypress-e2e",
+  "name": "notes-e2e-cypress",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open",
@@ -9,7 +8,8 @@
   },
   "author": "",
   "license": "ISC",
+  "description": "",
   "devDependencies": {
-    "cypress": "^13.6.6"
+    "cypress": "^14.5.4"
   }
 }
